@@ -6,7 +6,8 @@ y = k1 * x + b1, y = k2 * x + b2;
 
 b1 = 2, k1 = 5, b2 = 4, k2 = 9 -> (-0,5; -0,5)
 */
-
+ // проверка корректности ввода числа
+ 
 double CorrectNumber(string messege)
 {
     bool isCorrect = false;
