@@ -59,6 +59,8 @@ int[] InitArray(int demensionArray)
     return array;
 }
 
+//Печать массива
+
 void PrintArray(int[] array)
 {
     Console.Write("[");
